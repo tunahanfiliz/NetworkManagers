@@ -1,1 +1,2 @@
 # NetworkManagers
+Alamofire, urlsession
