@@ -1,2 +1,2 @@
 # NetworkManagers
-Alamofire, urlsession
+apicaller,Alamofire, urlsession
